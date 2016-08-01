@@ -1,0 +1,23 @@
+//Data.json
+[
+	{
+		"name":"Loksatta",
+		"url":"http://www.loksatta.com/",
+		"icon":"images/loksatta.PNG"
+	},
+	{
+		"name":"Pudhari",
+		"url":"http://www.pudhari.com/",
+		"icon":"images/pudhari.PNG"
+	},
+	{
+		"name":"MaTa",
+		"url":"http://www.loksatta.com/",
+		"icon":"images/mata.PNG"
+	},
+	{
+		"name":"Sakaal",
+		"url":"http://www.esakaal.com/",
+		"icon":"images/sakal.PNG"
+	}
+]
